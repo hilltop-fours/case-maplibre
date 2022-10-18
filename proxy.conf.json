@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "https://test-kpi-dashboard.ndwcloud.nu",
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}

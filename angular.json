@@ -76,11 +76,11 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "case-map:build:production"
+              "buildTarget": "case-map:build:production"
             },
             "development": {
-              "browserTarget": "case-map:build:development",
-              "proxyConfig": "proxy.conf.json"
+              "proxyConfig": "proxy.conf.json",
+              "buildTarget": "case-map:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -88,7 +88,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "case-map:build"
+            "buildTarget": "case-map:build"
           }
         },
         "test": {

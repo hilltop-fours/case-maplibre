@@ -1,6 +1,6 @@
 {
   "/api": {
-    "target": "https://www.ndw.nu",
+    "target": "https://ndw.nu/",
     "changeOrigin": true,
     "logLevel": "debug"
   }

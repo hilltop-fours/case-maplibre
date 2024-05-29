@@ -23,7 +23,7 @@ export class GeojsonService {
       "source": "roadobject",
       "layout": {
         "icon-image": "custom-marker",
-        "text-field": ["get", "hectometer"],
+        "text-field": ["get", "name"],
         "text-font": [
           "Open Sans Semibold",
           "Arial Unicode MS Bold"

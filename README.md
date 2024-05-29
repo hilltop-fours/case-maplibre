@@ -1,3 +1,3 @@
 # Resultaat
 
-![Alt text](src/assets/Screenshot%202024-05-29%20at%2015.19.21.png)
+![Alt text](src/assets/Screenshot 2024-05-29 at 15.39.32.png)

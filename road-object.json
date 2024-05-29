@@ -1,0 +1,6506 @@
+[
+    {
+        "objectId": "VK198-56.654",
+        "name": "Gerverskopsche brug",
+        "roadNumber": "N198",
+        "hectometer": 566,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.93734344315375,
+                52.1043544372208
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-57.400",
+        "name": "Zuiderwaardbrug",
+        "roadNumber": "N201",
+        "hectometer": 574,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.92934362488197,
+                52.216337388313
+            ]
+        },
+        "constructionYear": 1934,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-49.810",
+        "name": "Duikerbrug in N201",
+        "roadNumber": "N201",
+        "hectometer": 498,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.85382859341663,
+                52.2355302841992
+            ]
+        },
+        "constructionYear": 2013,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-62.288",
+        "name": "brug in het fietspad naast Donkervlietsebrug",
+        "roadNumber": "N201",
+        "hectometer": 622,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.99683288048504,
+                52.2261069742643
+            ]
+        },
+        "constructionYear": 1969,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-13.774",
+        "name": "Duikerbrug in de landscheindingssloot",
+        "roadNumber": "N204",
+        "hectometer": 137,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.95430323566984,
+                52.0165427108336
+            ]
+        },
+        "constructionYear": 1970,
+        "comment": null
+    },
+    {
+        "objectId": "FP198-57.0",
+        "name": "N198",
+        "roadNumber": "N198",
+        "hectometer": 57,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.9396427,
+                52.10051426
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-16.28-1",
+        "name": "Grondkering N402 Rechts HM 16.28",
+        "roadNumber": "N402",
+        "hectometer": 162,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.0213821,
+                52.15364906
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-50.400",
+        "name": "Brug in busbaan",
+        "roadNumber": "N201",
+        "hectometer": 504,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.8467121968994,
+                52.2323872122985
+            ]
+        },
+        "constructionYear": 1980,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-62.300",
+        "name": "Tunnel in het fietspad onder de N201",
+        "roadNumber": "N201",
+        "hectometer": 623,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.99807850343706,
+                52.2263787703571
+            ]
+        },
+        "constructionYear": 2003,
+        "comment": null
+    },
+    {
+        "objectId": "VK228-18.650",
+        "name": "Duiker in de Scheisloot onder de N228",
+        "roadNumber": "N228",
+        "hectometer": 186,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.94882007971685,
+                52.0433754214962
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-40.214",
+        "name": "Duikerbrug in de Tweede wetering",
+        "roadNumber": "N210",
+        "hectometer": 402,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97270418826764,
+                51.9874260345006
+            ]
+        },
+        "constructionYear": 1990,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-39.676-1",
+        "name": "Houten fietsbrug",
+        "roadNumber": "N210",
+        "hectometer": 396,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97581188191477,
+                51.9824153363131
+            ]
+        },
+        "constructionYear": 1996,
+        "comment": null
+    },
+    {
+        "objectId": "VK401-02.253-1",
+        "name": "Joostendammerbrug (deel 1)",
+        "roadNumber": "N401",
+        "hectometer": 22,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.94035359302421,
+                52.1524821126086
+            ]
+        },
+        "constructionYear": 1971,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-10.41",
+        "name": "Grondkering N402 Links HM 10.41",
+        "roadNumber": "N402",
+        "hectometer": 104,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01832145,
+                52.20099866
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC212-12.50-1",
+        "name": "Waterkering N212 Rechts HM 12.50",
+        "roadNumber": "N212",
+        "hectometer": 125,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.92022938,
+                52.10616109
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK228-18.908",
+        "name": "Duiker in de Montfoortse gracht",
+        "roadNumber": "N228",
+        "hectometer": 189,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.95285800827795,
+                52.0444398690088
+            ]
+        },
+        "constructionYear": 1939,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-7.67",
+        "name": "Waterkering N402 Links HM 7.67",
+        "roadNumber": "N402",
+        "hectometer": 76,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01063399,
+                52.21861297
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-15.45",
+        "name": "Grondkering N402 Rechts HM 15.45",
+        "roadNumber": "N402",
+        "hectometer": 154,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01022093,
+                52.1638
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-10.20",
+        "name": "Grondkering N402 Rechts HM 10.20",
+        "roadNumber": "N402",
+        "hectometer": 102,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01872555,
+                52.20219001
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK237-75.727",
+        "name": "Fiets- voetgangerstunnel Kapelweg",
+        "roadNumber": "N237",
+        "hectometer": 757,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.1826222092708,
+                52.1029220273591
+            ]
+        },
+        "constructionYear": 1955,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-04.790",
+        "name": "Fietstunnel kw 6",
+        "roadNumber": "N233",
+        "hectometer": 47,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.5633435130384,
+                52.0091609076607
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "VK225-34.180",
+        "name": "Ecopaasage",
+        "roadNumber": "N225",
+        "hectometer": 341,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.52111862475748,
+                51.9787505837842
+            ]
+        },
+        "constructionYear": 2009,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-05.210",
+        "name": "Tunnel onder de spoorlijn Veenendaal/Rhenen",
+        "roadNumber": "N233",
+        "hectometer": 52,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.55947862491042,
+                52.0053531568344
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-25.76",
+        "name": "Waterkering N228 Rechts HM 25.76",
+        "roadNumber": "N228",
+        "hectometer": 257,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.02905004,
+                52.07114954
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.780",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 517,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40490307225511,
+                52.1130468192102
+            ]
+        },
+        "constructionYear": 1940,
+        "comment": "2016 onderhouden"
+    },
+    {
+        "objectId": "GS201-56.7",
+        "name": "Scherm N201 Rechts HM 56.7",
+        "roadNumber": "N201",
+        "hectometer": 567,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.91912375346577,
+                52.2161658411735
+            ]
+        },
+        "constructionYear": 1990,
+        "comment": null
+    },
+    {
+        "objectId": "GS199-5.55",
+        "name": "Schermwalcombinatie N199 Links HM 5.55",
+        "roadNumber": "N199",
+        "hectometer": 55,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.369163,
+                52.184869
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "BK212-06.138",
+        "name": "Geerbrug",
+        "roadNumber": "N212",
+        "hectometer": 61,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90917,
+                52.16193
+            ]
+        },
+        "constructionYear": 1961,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-01.550",
+        "name": "Fietstunnel",
+        "roadNumber": "N233",
+        "hectometer": 15,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.58052423529977,
+                52.0348868558948
+            ]
+        },
+        "constructionYear": 2005,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-08.420",
+        "name": "Fietstunnel onder de N233 door",
+        "roadNumber": "N233",
+        "hectometer": 84,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.5692755665157,
+                51.9819128320477
+            ]
+        },
+        "constructionYear": 2003,
+        "comment": "2016 onderhouden"
+    },
+    {
+        "objectId": "GS224-12.60",
+        "name": "Scherm N224 Links HM 12.60",
+        "roadNumber": "N224",
+        "hectometer": 126,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.404543,
+                52.080999
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS233-4.95-1",
+        "name": "Schermwalcombinatie N233 Rechts HM 4.95",
+        "roadNumber": "N233",
+        "hectometer": 49,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.56178094427336,
+                52.0076420286969
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "GS234-6.12",
+        "name": "Scherm N234 Links HM 6.12",
+        "roadNumber": "N234",
+        "hectometer": 61,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.23086775265933,
+                52.1579782200534
+            ]
+        },
+        "constructionYear": 2015,
+        "comment": null
+    },
+    {
+        "objectId": "BK201-60.380",
+        "name": "Demmerikse brug",
+        "roadNumber": "N201",
+        "hectometer": 603,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97167,
+                52.22084
+            ]
+        },
+        "constructionYear": 1943,
+        "comment": null
+    },
+    {
+        "objectId": "BK201-64.755",
+        "name": "Brug Vreeland",
+        "roadNumber": "N201",
+        "hectometer": 647,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.03275259858078,
+                52.2280739426462
+            ]
+        },
+        "constructionYear": 1942,
+        "comment": null
+    },
+    {
+        "objectId": "VK227-00.005",
+        "name": "Viaduct over de N227 in de N221",
+        "roadNumber": "N227",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 1958,
+        "comment": null
+    },
+    {
+        "objectId": "VK230-02.983",
+        "name": "Duiker",
+        "roadNumber": "N230",
+        "hectometer": 29,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.06118031644654,
+                52.1353537735891
+            ]
+        },
+        "constructionYear": 1978,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-47.150",
+        "name": "Veetunnel Kunstwerk 3",
+        "roadNumber": "N210",
+        "hectometer": 471,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.05391114223449,
+                52.0080601199456
+            ]
+        },
+        "constructionYear": 2002,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-52.290",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 522,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40985510736715,
+                52.1097266878133
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "GS413-1.01",
+        "name": "Scherm N413 Links HM 1.01",
+        "roadNumber": "N413",
+        "hectometer": 10,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.30225366143998,
+                52.1232527714111
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK229-16.243",
+        "name": "Brug over de Cothergrift",
+        "roadNumber": "N229",
+        "hectometer": 162,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.31423088905857,
+                52.000083740325
+            ]
+        },
+        "constructionYear": 1965,
+        "comment": null
+    },
+    {
+        "objectId": "VK228-21.942-1",
+        "name": "Hoogenboomsbrug (fietsverkeer)",
+        "roadNumber": "N228",
+        "hectometer": 219,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.98778083959105,
+                52.0537490509465
+            ]
+        },
+        "constructionYear": 2002,
+        "comment": null
+    },
+    {
+        "objectId": "VK227-14.442",
+        "name": "Brug over de Langbroekerwetering",
+        "roadNumber": "N227",
+        "hectometer": 144,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.32648902197711,
+                52.0114929908666
+            ]
+        },
+        "constructionYear": 1939,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-46.880",
+        "name": "Viaduct kunstwerk 2",
+        "roadNumber": "N210",
+        "hectometer": 468,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.04969969428439,
+                52.0073836704135
+            ]
+        },
+        "constructionYear": 2002,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-61.600",
+        "name": "Fietsruitertunnel Leersumse Veld",
+        "roadNumber": "N226",
+        "hectometer": 616,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.41474986448858,
+                52.0329452046569
+            ]
+        },
+        "constructionYear": 2009,
+        "comment": null
+    },
+    {
+        "objectId": "VK230-01.773",
+        "name": "Zuilensebrug",
+        "roadNumber": "N230",
+        "hectometer": 17,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.04638952915685,
+                52.1297447699191
+            ]
+        },
+        "constructionYear": 1979,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-06.200",
+        "name": "Fietstunnel onder rotonde door N233",
+        "roadNumber": "N233",
+        "hectometer": 62,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.55220914448702,
+                51.997720131463
+            ]
+        },
+        "constructionYear": 2002,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.410",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 514,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40232785301915,
+                52.115378234601
+            ]
+        },
+        "constructionYear": 2018,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-02.760",
+        "name": "Fietstunnel",
+        "roadNumber": "N233",
+        "hectometer": 27,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.57888060069954,
+                52.0241951347489
+            ]
+        },
+        "constructionYear": 2008,
+        "comment": null
+    },
+    {
+        "objectId": "VK212-1.050",
+        "name": "Duikerbrug",
+        "roadNumber": "N212",
+        "hectometer": 10,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90436910117285,
+                52.207051270001
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK237-74.900",
+        "name": "Hekwerk langs de Grift",
+        "roadNumber": "N237",
+        "hectometer": 749,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.17126319142929,
+                52.1019685599897
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.750",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 517,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40490307225511,
+                52.1130468192102
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK405-01.938",
+        "name": "Duiker onder de v. Teylingenweg",
+        "roadNumber": "N405",
+        "hectometer": 19,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.89438243327945,
+                52.1053165766856
+            ]
+        },
+        "constructionYear": 1969,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.980",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 519,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40685524407631,
+                52.1116663196182
+            ]
+        },
+        "constructionYear": 1930,
+        "comment": "2016 onderhouden"
+    },
+    {
+        "objectId": "GS484-6.10",
+        "name": "Scherm N484 Rechts HM 6.10",
+        "roadNumber": "N484",
+        "hectometer": 61,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.13950927841482,
+                51.9396824689841
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS233-4.95",
+        "name": "Schermwalcombinatie N233 Links HM 4.95",
+        "roadNumber": "N233",
+        "hectometer": 49,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.56178094427336,
+                52.0076420286969
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "VK237-83.300",
+        "name": "Verdiepte ligging",
+        "roadNumber": "N237",
+        "hectometer": 833,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.28267434626459,
+                52.1226500566491
+            ]
+        },
+        "constructionYear": 2016,
+        "comment": null
+    },
+    {
+        "objectId": "VK230-01.050",
+        "name": "Groenesteinviaduct",
+        "roadNumber": "N230",
+        "hectometer": 10,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.03967004526418,
+                52.1250801910066
+            ]
+        },
+        "constructionYear": 1977,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-52.180",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 521,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40886330560927,
+                52.1103738805007
+            ]
+        },
+        "constructionYear": 1940,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-8.93",
+        "name": "Waterkering N402 Rechts HM 8.93",
+        "roadNumber": "N402",
+        "hectometer": 89,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01247197,
+                52.21184073
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-56.483",
+        "name": "Duiker in de Nieuwe Wetering",
+        "roadNumber": "N226",
+        "hectometer": 564,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.4116210509952,
+                52.0762437390624
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "GS199-4.00",
+        "name": "Schermwalcombinatie N199 Links HM 4.00",
+        "roadNumber": "N199",
+        "hectometer": 40,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.366221,
+                52.198089
+            ]
+        },
+        "constructionYear": 2003,
+        "comment": null
+    },
+    {
+        "objectId": "GS224-14.43",
+        "name": "Schermwalcombinatie N224 Links HM 14.43",
+        "roadNumber": "N224",
+        "hectometer": 144,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.4268282469402,
+                52.0745388484909
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS210-35.92",
+        "name": "Scherm N210 Links HM 35.92",
+        "roadNumber": "N210",
+        "hectometer": 359,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.93657940883927,
+                51.968597847015
+            ]
+        },
+        "constructionYear": 2015,
+        "comment": null
+    },
+    {
+        "objectId": "GS199-3.10",
+        "name": "Schermwalcombinatie N199 Links HM 3.10",
+        "roadNumber": "N199",
+        "hectometer": 31,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.36508914132432,
+                52.2061335911874
+            ]
+        },
+        "constructionYear": 2003,
+        "comment": null
+    },
+    {
+        "objectId": "FP233-3.3",
+        "name": "N233",
+        "roadNumber": "N233",
+        "hectometer": 33,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.57391234,
+                52.01926191
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-43.123",
+        "name": "Duikerbrug",
+        "roadNumber": "N210",
+        "hectometer": 431,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.99766323905801,
+                51.9994001619104
+            ]
+        },
+        "constructionYear": 1975,
+        "comment": null
+    },
+    {
+        "objectId": "GC198 55.00",
+        "name": "Waterkering N198 HM 55.00",
+        "roadNumber": "N198",
+        "hectometer": 550,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.916811,
+                52.100732
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-64.818",
+        "name": "Tunnel in het fietspad onder de N201",
+        "roadNumber": "N201",
+        "hectometer": 648,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.03423068565498,
+                52.2281652715314
+            ]
+        },
+        "constructionYear": 1969,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-50.200_1",
+        "name": "Spiraalduiker achter veetunnel",
+        "roadNumber": "N201",
+        "hectometer": 502,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.84910568872331,
+                52.2334194782489
+            ]
+        },
+        "constructionYear": 2013,
+        "comment": null
+    },
+    {
+        "objectId": "FP417-4.2",
+        "name": "N417 N234 Wilhelminaweg",
+        "roadNumber": "N417",
+        "hectometer": 42,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.15636965,
+                52.14412735
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-20.390",
+        "name": "Ambachtsherenbrug",
+        "roadNumber": "N204",
+        "hectometer": 203,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90877042068699,
+                52.0639873484977
+            ]
+        },
+        "constructionYear": 1961,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-49.890",
+        "name": "Duikerbrug in zijweg Van Geijnweg",
+        "roadNumber": "N201",
+        "hectometer": 498,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.8539243399513,
+                52.2354662097583
+            ]
+        },
+        "constructionYear": 2013,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-51.877",
+        "name": "Duikerbrug in de rijbaan N201",
+        "roadNumber": "N201",
+        "hectometer": 518,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.85551811174264,
+                52.2248246080053
+            ]
+        },
+        "constructionYear": 1953,
+        "comment": null
+    },
+    {
+        "objectId": "VK401-02.253-3",
+        "name": "Joostendammerbrug (deel 3)",
+        "roadNumber": "N401",
+        "hectometer": 22,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.94035359302421,
+                52.1524821126086
+            ]
+        },
+        "constructionYear": 1971,
+        "comment": null
+    },
+    {
+        "objectId": "VK414-02.316",
+        "name": "Duiker in de Bloklands Wetering",
+        "roadNumber": "N414",
+        "hectometer": 23,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.32236633506093,
+                52.2280021574596
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK419-14.200",
+        "name": "Viaduct over de N419",
+        "roadNumber": "N419",
+        "hectometer": 142,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97764905122339,
+                52.0826433628429
+            ]
+        },
+        "constructionYear": 2009,
+        "comment": null
+    },
+    {
+        "objectId": "VK234-00.740",
+        "name": "Duiker onder de N234",
+        "roadNumber": "N234",
+        "hectometer": 7,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.16475418512759,
+                52.1403360880364
+            ]
+        },
+        "constructionYear": 2008,
+        "comment": null
+    },
+    {
+        "objectId": "GS230-1.55",
+        "name": "Scherm N230 Links HM 1.55",
+        "roadNumber": "N230",
+        "hectometer": 15,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.04424056,
+                52.1285329
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-65.14",
+        "name": "Waterkering N201 Links HM 65.14",
+        "roadNumber": "N201",
+        "hectometer": 651,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.04279229,
+                52.23059157
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.490",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 514,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40232785301915,
+                52.115378234601
+            ]
+        },
+        "constructionYear": 1940,
+        "comment": null
+    },
+    {
+        "objectId": "VK221-36.645",
+        "name": "Duikerbrug over de Praamgracht",
+        "roadNumber": "N221",
+        "hectometer": 366,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.28147429866544,
+                52.1939572350231
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK401-02.253-2",
+        "name": "Joostendammerbrug (deel 2)",
+        "roadNumber": "N401",
+        "hectometer": 22,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.94035359302421,
+                52.1524821126086
+            ]
+        },
+        "constructionYear": 1971,
+        "comment": null
+    },
+    {
+        "objectId": "VK806-01.000",
+        "name": "Brug en onderdoorgang",
+        "roadNumber": "N806",
+        "hectometer": 10,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.38295301934329,
+                52.2321952255715
+            ]
+        },
+        "constructionYear": 2014,
+        "comment": null
+    },
+    {
+        "objectId": "VK412-01.330",
+        "name": "Fietstunnel",
+        "roadNumber": "N412",
+        "hectometer": 13,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.18536212426181,
+                52.1018198919627
+            ]
+        },
+        "constructionYear": 2016,
+        "comment": null
+    },
+    {
+        "objectId": "VK421-02.800",
+        "name": "KW8 Viaduct over A12",
+        "roadNumber": "N421",
+        "hectometer": 28,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.19347170630474,
+                52.0609406794422
+            ]
+        },
+        "constructionYear": 2012,
+        "comment": null
+    },
+    {
+        "objectId": "VK484-05.600",
+        "name": "Duikerbrug",
+        "roadNumber": "N484",
+        "hectometer": 56,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.13365015903194,
+                51.9371412098251
+            ]
+        },
+        "constructionYear": 1994,
+        "comment": null
+    },
+    {
+        "objectId": "VK405-01.585",
+        "name": "Kunststof voetbrug",
+        "roadNumber": "N405",
+        "hectometer": 15,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.89445491805945,
+                52.1017330170334
+            ]
+        },
+        "constructionYear": 2011,
+        "comment": null
+    },
+    {
+        "objectId": "VKValleikanaal 100",
+        "name": "Haarbrug",
+        "roadNumber": null,
+        "hectometer": null,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.61809800257,
+                51.966156997502
+            ]
+        },
+        "constructionYear": 1948,
+        "comment": null
+    },
+    {
+        "objectId": "VKValleikanaal 200",
+        "name": "Zuidelijke meentbrug",
+        "roadNumber": null,
+        "hectometer": null,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.601579999929,
+                51.995640996084
+            ]
+        },
+        "constructionYear": 1948,
+        "comment": null
+    },
+    {
+        "objectId": "VK230-03.680",
+        "name": "Nederreindsevaart",
+        "roadNumber": "N230",
+        "hectometer": 36,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.07105837765035,
+                52.1368406874272
+            ]
+        },
+        "constructionYear": 1978,
+        "comment": null
+    },
+    {
+        "objectId": "VK234-09.700",
+        "name": "Duiker",
+        "roadNumber": "N234",
+        "hectometer": 97,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.26197559152593,
+                52.1837868641989
+            ]
+        },
+        "constructionYear": 1970,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-16.20",
+        "name": "Grondkering N228 Rechts HM 16.20",
+        "roadNumber": "N228",
+        "hectometer": 162,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.92740287,
+                52.02732393
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS484-03.100L",
+        "name": "Geluidsscherm",
+        "roadNumber": "N484",
+        "hectometer": 31,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.1112531232858,
+                51.9204989192299
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS201-53.3",
+        "name": "Scherm N201 Links HM 53.3",
+        "roadNumber": "N201",
+        "hectometer": 533,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.87182316,
+                52.21720727
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-64.70",
+        "name": "Waterkering N201 Links HM 64.70",
+        "roadNumber": "N201",
+        "hectometer": 647,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.03311673,
+                52.22819645
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC204-19.95",
+        "name": "Waterkering N204 Rechts HM 19.95",
+        "roadNumber": "N204",
+        "hectometer": 199,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90857279,
+                52.0612289
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC417-4.71",
+        "name": "Waterkering N417 Links HM 4.71",
+        "roadNumber": "N417",
+        "hectometer": 47,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.15897088,
+                52.14813373
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC210-36.80",
+        "name": "Waterkering N210 Links HM 36.80",
+        "roadNumber": "N210",
+        "hectometer": 368,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.95889905,
+                51.97230456
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK230-00.932",
+        "name": "Hoogemaatviaduct",
+        "roadNumber": "N230",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 1977,
+        "comment": null
+    },
+    {
+        "objectId": "GS401-5.80",
+        "name": "Scherm N401 Links HM 5.80",
+        "roadNumber": "N401",
+        "hectometer": 58,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.98529545510195,
+                52.1690452024635
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC414-3.83",
+        "name": "Grondkering N414 Links HM 3.83",
+        "roadNumber": "N414",
+        "hectometer": 38,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.34632014,
+                52.22743105
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS201-56.7R",
+        "name": "Geluidscherm",
+        "roadNumber": "N201",
+        "hectometer": 567,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.91912375346577,
+                52.2161658411735
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC204-16.30",
+        "name": "Waterkering sloot N204 Links HM 16.30",
+        "roadNumber": "N204",
+        "hectometer": 163,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.93635072,
+                52.03661099
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC414-5.00",
+        "name": "Grondkering N414 Links HM 5.00",
+        "roadNumber": "N414",
+        "hectometer": 50,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.3612609,
+                52.22813828
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-35.100",
+        "name": "Duikerbrug onder de N210",
+        "roadNumber": "N210",
+        "hectometer": 351,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.92543515881337,
+                51.9662829112222
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "GS234-6.12-1",
+        "name": "Scherm N234 Links HM 6.12",
+        "roadNumber": "N234",
+        "hectometer": 61,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.23086775265933,
+                52.1579782200534
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK234-00.720",
+        "name": "Duiker langs parallelweg op kruising rechts",
+        "roadNumber": "N234",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 1970,
+        "comment": null
+    },
+    {
+        "objectId": "VK224-24.349",
+        "name": "Duiker",
+        "roadNumber": "N224",
+        "hectometer": 243,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.55185929584153,
+                52.0670427194523
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "GS229-9.75",
+        "name": "Scherm N229 Rechts HM 9.75",
+        "roadNumber": "N229",
+        "hectometer": 97,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.23960220385086,
+                52.0320783891727
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS233-1.45",
+        "name": "Schermwalcombinatie N233 Links HM 1.45",
+        "roadNumber": "N233",
+        "hectometer": 14,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.58103458998518,
+                52.0357269808826
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-01.605",
+        "name": "Brug over de Zijde wetering",
+        "roadNumber": "N233",
+        "hectometer": 16,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.58037996436144,
+                52.0339867524524
+            ]
+        },
+        "constructionYear": 1996,
+        "comment": null
+    },
+    {
+        "objectId": "VKKromme Rijn",
+        "name": "Odijkerbrug",
+        "roadNumber": null,
+        "hectometer": null,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.242364001996,
+                52.055945999932
+            ]
+        },
+        "constructionYear": 1952,
+        "comment": null
+    },
+    {
+        "objectId": "VKKromme Rijn 200",
+        "name": "Beverweerdsebrug (Pijselbrug)",
+        "roadNumber": null,
+        "hectometer": null,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.247488998175,
+                52.033114994895
+            ]
+        },
+        "constructionYear": 1965,
+        "comment": null
+    },
+    {
+        "objectId": "GC226-54.98",
+        "name": "Grondkering N226 Rechts HM 54.98",
+        "roadNumber": "N226",
+        "hectometer": 549,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.41768536,
+                52.08922729
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC226-51.80",
+        "name": "Grondkering N226 Rechts HM 51.80",
+        "roadNumber": "N226",
+        "hectometer": 518,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40680395,
+                52.11182891
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC226-53.95",
+        "name": "Waterkering N226 Links HM 53.95",
+        "roadNumber": "N226",
+        "hectometer": 539,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.42031671,
+                52.09716507
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC226-51.73",
+        "name": "Grondkering N226 Rechts HM 51.73",
+        "roadNumber": "N226",
+        "hectometer": 517,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40517554,
+                52.11310428
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC226-51.76",
+        "name": "GC226-51.76",
+        "roadNumber": "N226",
+        "hectometer": 517,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40503455,
+                52.11306838
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK409-10.147",
+        "name": "Duiker in de Wayense wetering",
+        "roadNumber": "N409",
+        "hectometer": 101,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.11932752702375,
+                52.0468308891134
+            ]
+        },
+        "constructionYear": 1973,
+        "comment": null
+    },
+    {
+        "objectId": "GS484-6.14",
+        "name": "Scherm N484 Links HM 6.14",
+        "roadNumber": "N484",
+        "hectometer": 61,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.13950927841482,
+                51.9396824689841
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-62.45",
+        "name": "Waterkering N201 Links HM 62.45",
+        "roadNumber": "N201",
+        "hectometer": 624,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.00008863,
+                52.22651291
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC204-20.50",
+        "name": "Waterkering sloot N204 Links HM 20.50",
+        "roadNumber": "N204",
+        "hectometer": 205,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90822759,
+                52.0654438
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-9.91",
+        "name": "Grondkering N402 Rechts HM 9.91",
+        "roadNumber": "N402",
+        "hectometer": 99,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01846466,
+                52.20424372
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-13.19",
+        "name": "Grondkering N228 Rechts HM 13.19",
+        "roadNumber": "N228",
+        "hectometer": 131,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.88460097,
+                52.02073091
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC227 16.00",
+        "name": "Waterkering N227 HM 16.00",
+        "roadNumber": "N227",
+        "hectometer": 160,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.31432761,
+                52.0000985
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC212-5.0-1",
+        "name": "Waterkering N212 Rechts HM 5.0",
+        "roadNumber": "N212",
+        "hectometer": 50,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90452276,
+                52.17142771
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-13.31",
+        "name": "Grondkering N228 Rechts HM 13.31",
+        "roadNumber": "N228",
+        "hectometer": 133,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.88604907,
+                52.0216605
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK224-12.500",
+        "name": "Duikerbrug over de Woudenbergsche Grift",
+        "roadNumber": "N224",
+        "hectometer": 125,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40377717100424,
+                52.0818309845621
+            ]
+        },
+        "constructionYear": 1994,
+        "comment": null
+    },
+    {
+        "objectId": "VK224-16.650",
+        "name": "Potbrug",
+        "roadNumber": "N224",
+        "hectometer": 166,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.45579779014072,
+                52.08140569775
+            ]
+        },
+        "constructionYear": 1986,
+        "comment": null
+    },
+    {
+        "objectId": "FPEEM-",
+        "name": "Rivier de Eem",
+        "roadNumber": null,
+        "hectometer": null,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.31288900732272,
+                52.2033720945864
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-12.60",
+        "name": "Waterkering N228 Links HM 12.60",
+        "roadNumber": "N228",
+        "hectometer": 126,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.87969701,
+                52.01780952
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-17.280",
+        "name": "Brug over de bermsloot",
+        "roadNumber": "N204",
+        "hectometer": 172,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.9312102539385,
+                52.0442600697422
+            ]
+        },
+        "constructionYear": 1995,
+        "comment": null
+    },
+    {
+        "objectId": "VKValleikanaal 300",
+        "name": "Rauweveldsebrug",
+        "roadNumber": null,
+        "hectometer": null,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.585844004321,
+                52.011732997967
+            ]
+        },
+        "constructionYear": 1948,
+        "comment": null
+    },
+    {
+        "objectId": "GC198 54.45",
+        "name": "Grondkering N198 HM 54.45L",
+        "roadNumber": "N198",
+        "hectometer": 544,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.02700553,
+                52.07421112
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC210-33.03",
+        "name": "Grondkering N210 Links HM 33.03",
+        "roadNumber": "N210",
+        "hectometer": 330,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90089208,
+                51.95724558
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC210-36.94",
+        "name": "Waterkering N210 Rechts HM 36.94",
+        "roadNumber": "N210",
+        "hectometer": 369,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90096719,
+                51.95701913
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC204-20.75",
+        "name": "Waterkering sloot N204 links HM 20.75",
+        "roadNumber": "N204",
+        "hectometer": 207,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90407381,
+                52.06835083
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK237-73.015",
+        "name": "Duikerbrug  (derden) gemeente Utrecht",
+        "roadNumber": "N237",
+        "hectometer": 730,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.14537064468052,
+                52.0963946580139
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK230-00.492",
+        "name": "Overpostviaduct",
+        "roadNumber": "N230",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 1977,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-16.73-1",
+        "name": "Grondkering N228 Rechts HM 16.73",
+        "roadNumber": "N228",
+        "hectometer": 167,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.9338856,
+                52.03316942
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-10.10",
+        "name": "Grondkering N402 Rechts HM 10.10",
+        "roadNumber": "N402",
+        "hectometer": 101,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01882528,
+                52.20278619
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC414-5.20",
+        "name": "Grondkering N414 Links HM 5.20",
+        "roadNumber": "N414",
+        "hectometer": 52,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.36424763,
+                52.22787356
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK412-00.425",
+        "name": "Faunawissel (wildtunnel)",
+        "roadNumber": "N412",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.18005131167752,
+                52.0944278686488
+            ]
+        },
+        "constructionYear": 2002,
+        "comment": null
+    },
+    {
+        "objectId": "VK230-02.750",
+        "name": "Oostwaardviaduct",
+        "roadNumber": "N230",
+        "hectometer": 27,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.05837609367154,
+                52.1348468504358
+            ]
+        },
+        "constructionYear": 1978,
+        "comment": null
+    },
+    {
+        "objectId": "GC227-15.57",
+        "name": "Waterkering N227 Links HM 15.57",
+        "roadNumber": "N227",
+        "hectometer": 155,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.31615054,
+                52.0022125
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-10.80",
+        "name": "Grondkering N402 Links HM 10.80",
+        "roadNumber": "N402",
+        "hectometer": 108,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01342859,
+                52.19811506
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC212-5.18",
+        "name": "Waterkering N212 Links HM 5.18",
+        "roadNumber": "N212",
+        "hectometer": 51,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90449823,
+                52.16926834
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-13.37",
+        "name": "Grondkering N228 Rechts HM 13.37",
+        "roadNumber": "N228",
+        "hectometer": 133,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.88666028,
+                52.02184758
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-20.30",
+        "name": "Grondkering N228 Rechts HM 20.30",
+        "roadNumber": "N228",
+        "hectometer": 203,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.96427469,
+                52.05174004
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-16.73",
+        "name": "Grondkering N228 Links HM 16.73",
+        "roadNumber": "N228",
+        "hectometer": 167,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.93382282,
+                52.03312424
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-14.80-1",
+        "name": "Grondkering N228 Rechts HM 14.80",
+        "roadNumber": "N228",
+        "hectometer": 148,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.9081203,
+                52.02373641
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-61.37",
+        "name": "Grondkering N201 Rechts HM 61.37",
+        "roadNumber": "N201",
+        "hectometer": 613,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.98423468,
+                52.22289691
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-13.25",
+        "name": "Grondkering N228 Rechts HM 13.25",
+        "roadNumber": "N228",
+        "hectometer": 132,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.88943637,
+                52.02209203
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-13.40-1",
+        "name": "Grondkering N228 Rechts HM 13.40",
+        "roadNumber": "N228",
+        "hectometer": 134,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.89442494,
+                52.02240282
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK228-15.575",
+        "name": "Dichte inlaatkoker",
+        "roadNumber": "N228",
+        "hectometer": 155,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.91791933330723,
+                52.0250774860107
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.795",
+        "name": "Voetbrug",
+        "roadNumber": "N226",
+        "hectometer": 517,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40490307225511,
+                52.1130468192102
+            ]
+        },
+        "constructionYear": 1940,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-49.625-1",
+        "name": "Viaduct De Hogewaard West",
+        "roadNumber": "N210",
+        "hectometer": 496,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.06186049480166,
+                52.02444233246
+            ]
+        },
+        "constructionYear": 2003,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.800",
+        "name": "Voetbrug",
+        "roadNumber": "N226",
+        "hectometer": 518,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40578216445197,
+                52.1123633246447
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK224-22.202",
+        "name": "Brug in fietspad (R) over de Luntersebeek",
+        "roadNumber": "N224",
+        "hectometer": 222,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.52691082778277,
+                52.0760695909723
+            ]
+        },
+        "constructionYear": 2013,
+        "comment": null
+    },
+    {
+        "objectId": "GC226-54.90",
+        "name": "Grondkering N226 Links HM 54.90",
+        "roadNumber": "N226",
+        "hectometer": 549,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.41757065,
+                52.0891276
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC226-51.13",
+        "name": "Grondkering N226 Rechts HM 51.13",
+        "roadNumber": "N226",
+        "hectometer": 511,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40205982,
+                52.11638276
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-18.00",
+        "name": "Waterkering N402 Links HM 18.00",
+        "roadNumber": "N402",
+        "hectometer": 180,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.03162529,
+                52.14537434
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS238-1.60",
+        "name": "Scherm N238 Rechts HM 1.60",
+        "roadNumber": "N238",
+        "hectometer": 160,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.23860657,
+                52.14498634
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-17.34",
+        "name": "Waterkering N228 Links HM 17.34",
+        "roadNumber": "N228",
+        "hectometer": 173,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.93606554,
+                52.03571426
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC226-55.31",
+        "name": "Grondkering N226 Links HM 55.31",
+        "roadNumber": "N226",
+        "hectometer": 553,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.41601838,
+                52.08557973
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK402-9.11",
+        "name": "Duiker onder N402",
+        "roadNumber": "N402",
+        "hectometer": 91,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01140251083435,
+                52.2107031516188
+            ]
+        },
+        "constructionYear": 2016,
+        "comment": null
+    },
+    {
+        "objectId": "VK402-18.650",
+        "name": "Waterstoep",
+        "roadNumber": "N402",
+        "hectometer": 186,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.03229086851614,
+                52.1420467742172
+            ]
+        },
+        "constructionYear": 2016,
+        "comment": null
+    },
+    {
+        "objectId": "VK402-11.504",
+        "name": "Duiker afgedamd",
+        "roadNumber": "N402",
+        "hectometer": 115,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.00505766226881,
+                52.1951983532564
+            ]
+        },
+        "constructionYear": 1970,
+        "comment": null
+    },
+    {
+        "objectId": "VK411-03.123",
+        "name": "Duiker",
+        "roadNumber": "N411",
+        "hectometer": 31,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.17766944056932,
+                52.0639200042655
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK405-00.880",
+        "name": "Duiker in de Kamerksewetering",
+        "roadNumber": "N405",
+        "hectometer": 8,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.89300429384304,
+                52.0959063319239
+            ]
+        },
+        "constructionYear": 1962,
+        "comment": null
+    },
+    {
+        "objectId": "GS230-0.2",
+        "name": "Scherm N230 Links HM 0.2",
+        "roadNumber": "N230",
+        "hectometer": 0,
+        "direction": "Li",
+        "geometry": null,
+        "constructionYear": 2007,
+        "comment": null
+    },
+    {
+        "objectId": "GS229-7.48",
+        "name": "Scherm N229 Links HM 7.48",
+        "roadNumber": "N229",
+        "hectometer": 74,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.22816791170612,
+                52.0510721038493
+            ]
+        },
+        "constructionYear": 2011,
+        "comment": null
+    },
+    {
+        "objectId": "BK402-11.310",
+        "name": "Ophaalbrug over de oude sluis in Loenen",
+        "roadNumber": "N402",
+        "hectometer": 113,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.00741186689151,
+                52.1961892302185
+            ]
+        },
+        "constructionYear": 2002,
+        "comment": null
+    },
+    {
+        "objectId": "BK414-01.550",
+        "name": "Eembrug (fiets) basculebrug met 2 aanbruggen",
+        "roadNumber": "N414",
+        "hectometer": 15,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.3129250391468,
+                52.2253064839379
+            ]
+        },
+        "constructionYear": 1977,
+        "comment": null
+    },
+    {
+        "objectId": "VK198-54.250",
+        "name": "Limesbrug",
+        "roadNumber": "N198",
+        "hectometer": 542,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 2008,
+        "comment": null
+    },
+    {
+        "objectId": "BK414-01.540",
+        "name": "Eembrug (auto) ophaalbrug met 2 aanbruggen",
+        "roadNumber": "N414",
+        "hectometer": 15,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.3129250391468,
+                52.2253064839379
+            ]
+        },
+        "constructionYear": 1961,
+        "comment": null
+    },
+    {
+        "objectId": "VK198-54.969",
+        "name": "Grote Houtdijkerbrug",
+        "roadNumber": "N198",
+        "hectometer": 549,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.91601981587792,
+                52.0996882784073
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK198-55.250",
+        "name": "Betonnen fietsbrug langs N198",
+        "roadNumber": "N198",
+        "hectometer": 552,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.91870603057062,
+                52.1023310880117
+            ]
+        },
+        "constructionYear": 1999,
+        "comment": null
+    },
+    {
+        "objectId": "BK403-00.167",
+        "name": "Cronenburgherbrug",
+        "roadNumber": "N403",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 1934,
+        "comment": null
+    },
+    {
+        "objectId": "VK402-09.900",
+        "name": "Duiker onder prov.weg",
+        "roadNumber": "N402",
+        "hectometer": 99,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01860575019865,
+                52.2049319724451
+            ]
+        },
+        "constructionYear": 1970,
+        "comment": null
+    },
+    {
+        "objectId": "VK401-02.125",
+        "name": "Duiker",
+        "roadNumber": "N401",
+        "hectometer": 21,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.9390745597597,
+                52.1520900927307
+            ]
+        },
+        "constructionYear": 1971,
+        "comment": null
+    },
+    {
+        "objectId": "VK402-15.893",
+        "name": "Duiker",
+        "roadNumber": "N402",
+        "hectometer": 158,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.0126521376529,
+                52.1598574619906
+            ]
+        },
+        "constructionYear": 1970,
+        "comment": null
+    },
+    {
+        "objectId": "VK412-01.230",
+        "name": "Duikerbrug (derden) Waterschap in De Biltse Grift",
+        "roadNumber": "N412",
+        "hectometer": 12,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.18495283150101,
+                52.1008714285827
+            ]
+        },
+        "constructionYear": 1970,
+        "comment": null
+    },
+    {
+        "objectId": "VK408-01.050",
+        "name": "Fietstunnel Ravenswade",
+        "roadNumber": "N408",
+        "hectometer": 10,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.11820810538524,
+                52.0478743217915
+            ]
+        },
+        "constructionYear": 2004,
+        "comment": null
+    },
+    {
+        "objectId": "VK402-09.480",
+        "name": "Landbouwbrug naast N402",
+        "roadNumber": "N402",
+        "hectometer": 94,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01313488341329,
+                52.2079845744039
+            ]
+        },
+        "constructionYear": 2014,
+        "comment": null
+    },
+    {
+        "objectId": "VK409-12.560",
+        "name": "Duiker",
+        "roadNumber": "N409",
+        "hectometer": 125,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.15003237194707,
+                52.039513377889
+            ]
+        },
+        "constructionYear": 1970,
+        "comment": null
+    },
+    {
+        "objectId": "VK405-03.266",
+        "name": "Duiker",
+        "roadNumber": "N405",
+        "hectometer": 32,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90363561169285,
+                52.1144414893472
+            ]
+        },
+        "constructionYear": 1970,
+        "comment": null
+    },
+    {
+        "objectId": "VK401-02.253-4",
+        "name": "Joostendammerbrug (deel 4)",
+        "roadNumber": "N401",
+        "hectometer": 22,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.94035359302421,
+                52.1524821126086
+            ]
+        },
+        "constructionYear": 1971,
+        "comment": null
+    },
+    {
+        "objectId": "VK402-12.583",
+        "name": "Dichte duiker",
+        "roadNumber": "N402",
+        "hectometer": 125,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.0055281476147,
+                52.1870194846134
+            ]
+        },
+        "constructionYear": 1900,
+        "comment": null
+    },
+    {
+        "objectId": "VK237-86.400",
+        "name": "Ecopassage Boele Staal",
+        "roadNumber": "N237",
+        "hectometer": 864,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.32602850145619,
+                52.1321500136805
+            ]
+        },
+        "constructionYear": 2016,
+        "comment": null
+    },
+    {
+        "objectId": "VK412-01.070",
+        "name": "Veetunnel onder de N412",
+        "roadNumber": "N412",
+        "hectometer": 10,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.18369972353837,
+                52.0992491210355
+            ]
+        },
+        "constructionYear": 2002,
+        "comment": null
+    },
+    {
+        "objectId": "VK401-04.847",
+        "name": "Duiker onder prov.weg",
+        "roadNumber": "N401",
+        "hectometer": 48,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97361720163876,
+                52.1636493577172
+            ]
+        },
+        "constructionYear": 1971,
+        "comment": null
+    },
+    {
+        "objectId": "VK238-02.453",
+        "name": "Den Engh brug",
+        "roadNumber": "N238",
+        "hectometer": 24,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.2466765145227,
+                52.1398018614208
+            ]
+        },
+        "constructionYear": 1964,
+        "comment": null
+    },
+    {
+        "objectId": "VK402-09.370",
+        "name": "Landbouwbrug naast N402",
+        "roadNumber": "N402",
+        "hectometer": 93,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01244274006174,
+                52.2088690191245
+            ]
+        },
+        "constructionYear": 2014,
+        "comment": null
+    },
+    {
+        "objectId": "VK402-09.240",
+        "name": "Landbouwbrug naast N402",
+        "roadNumber": "N402",
+        "hectometer": 92,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01175256212548,
+                52.2097574678223
+            ]
+        },
+        "constructionYear": 2014,
+        "comment": null
+    },
+    {
+        "objectId": "VK408-01.954",
+        "name": "Nieuwegeinsebrug",
+        "roadNumber": "N408",
+        "hectometer": 19,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.10929326677594,
+                52.0428022137567
+            ]
+        },
+        "constructionYear": 1982,
+        "comment": null
+    },
+    {
+        "objectId": "VK238-02.027",
+        "name": "W. Arnszhoeve brug",
+        "roadNumber": "N238",
+        "hectometer": 20,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.24214515509876,
+                52.1419680794057
+            ]
+        },
+        "constructionYear": 1965,
+        "comment": null
+    },
+    {
+        "objectId": "VK408-00.800",
+        "name": "Duiker onder de Laagravenseweg",
+        "roadNumber": "N408",
+        "hectometer": 8,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.11899193740486,
+                52.0496074476769
+            ]
+        },
+        "constructionYear": 1973,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-12.363",
+        "name": "Duikerbrug in Benschopse voorwetering",
+        "roadNumber": "N204",
+        "hectometer": 123,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.96295529627159,
+                52.0052608640755
+            ]
+        },
+        "constructionYear": 1954,
+        "comment": null
+    },
+    {
+        "objectId": "GC212-12.40",
+        "name": "Waterkering N212 Rechts HM 12.40",
+        "roadNumber": "N212",
+        "hectometer": 124,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.91816097,
+                52.10850162
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-13.40",
+        "name": "Grondkering N228 Links HM 13.40",
+        "roadNumber": "N228",
+        "hectometer": 134,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.88590926,
+                52.02176175
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-23.60",
+        "name": "Waterkering N228 Rechts HM 23.60",
+        "roadNumber": "N228",
+        "hectometer": 236,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01180536,
+                52.05610107
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-16.60",
+        "name": "Waterkering N402 Links HM 16.60",
+        "roadNumber": "N402",
+        "hectometer": 166,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.0204236,
+                52.15512409
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-16.28",
+        "name": "Grondkering N402 Links HM 16.28",
+        "roadNumber": "N402",
+        "hectometer": 162,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.02143826,
+                52.15363796
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC210-49.20",
+        "name": "Grondkering N210 Links HM 49.20",
+        "roadNumber": "N210",
+        "hectometer": 492,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.06232622,
+                52.02119526
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-8.20",
+        "name": "Waterkering N402 Links HM 8.20",
+        "roadNumber": "N402",
+        "hectometer": 82,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01137361,
+                52.21618257
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-15.10",
+        "name": "Grondkering N402 Links HM 15.10",
+        "roadNumber": "N402",
+        "hectometer": 151,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.00966634,
+                52.16580171
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK199-04.480",
+        "name": "Fietstunnel onder de N199/Bunschoterstraat",
+        "roadNumber": "N199",
+        "hectometer": 44,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.36759723180273,
+                52.1945959321103
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "VK199-01.770",
+        "name": "Duikerbrug (gemaal aan de oostzijde)",
+        "roadNumber": "N199",
+        "hectometer": 17,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.36722642248128,
+                52.2184046242666
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK199-03.710",
+        "name": "Fietstunnel onder de N199/Bunschoterstraat",
+        "roadNumber": "N199",
+        "hectometer": 37,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.36598796358765,
+                52.2007789093153
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "VK198-55.586",
+        "name": "Teckopperbrug",
+        "roadNumber": "N198",
+        "hectometer": 555,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.92264868838138,
+                52.1033297389059
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK198-57.050",
+        "name": "Putkoptunnel",
+        "roadNumber": "N198",
+        "hectometer": 570,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.93984642902005,
+                52.100954692805
+            ]
+        },
+        "constructionYear": 1987,
+        "comment": null
+    },
+    {
+        "objectId": "VK484-04.735",
+        "name": "Duikerbrug",
+        "roadNumber": "N484",
+        "hectometer": 47,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.12630615281002,
+                51.9305492131266
+            ]
+        },
+        "constructionYear": 1994,
+        "comment": null
+    },
+    {
+        "objectId": "VK199-00.686",
+        "name": "Duikerbrug afsluiter aan de noordzijde",
+        "roadNumber": "N199",
+        "hectometer": 6,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.37038188155361,
+                52.2281784943247
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "GC414-3.76",
+        "name": "Grondkering N414 Links HM 3.76",
+        "roadNumber": "N414",
+        "hectometer": 37,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.34205092,
+                52.22659228
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC212-2.50",
+        "name": "Waterkering N212 Links HM 2.50",
+        "roadNumber": "N212",
+        "hectometer": 25,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90614083,
+                52.19401563
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC403-0.00",
+        "name": "Waterkering N403 Rechts HM 0.00",
+        "roadNumber": "N403",
+        "hectometer": 0,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01874499,
+                52.20521512
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-39.676",
+        "name": "Duikerbrug in de Eerste wetering",
+        "roadNumber": "N210",
+        "hectometer": 396,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97581188191477,
+                51.9824153363131
+            ]
+        },
+        "constructionYear": 1990,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-39.270",
+        "name": "Henderikvan er Spoelbrug",
+        "roadNumber": "N210",
+        "hectometer": 392,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97784099156724,
+                51.979125019024
+            ]
+        },
+        "constructionYear": 1976,
+        "comment": null
+    },
+    {
+        "objectId": "VK198-56.221",
+        "name": "Kleine Houtdijksebrug",
+        "roadNumber": "N198",
+        "hectometer": 562,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.93189117039979,
+                52.1052911934804
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "GC212-12.50",
+        "name": "Waterkering rivier N212 Links HM 12.50",
+        "roadNumber": "N212",
+        "hectometer": 125,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.91966621,
+                52.10621349
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK224-12.690",
+        "name": "Duikerbrug over de Woudenbergsche Grift",
+        "roadNumber": "N224",
+        "hectometer": 126,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.4045409240874,
+                52.0810012141914
+            ]
+        },
+        "constructionYear": 1994,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-52.540",
+        "name": "Tunnel t.b.v. vee",
+        "roadNumber": "N226",
+        "hectometer": 525,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.41254862473672,
+                52.1076502704311
+            ]
+        },
+        "constructionYear": 1985,
+        "comment": "vervangen in 2018"
+    },
+    {
+        "objectId": "VK228-20.288",
+        "name": "Duiker in de Molenvliet",
+        "roadNumber": "N228",
+        "hectometer": 202,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.96354658517087,
+                52.0518653972325
+            ]
+        },
+        "constructionYear": 1939,
+        "comment": null
+    },
+    {
+        "objectId": "VK417-04.420",
+        "name": "Duiker",
+        "roadNumber": "N417",
+        "hectometer": 44,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.15732880561592,
+                52.1458155619422
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK484-05.460",
+        "name": "Duikerbrug",
+        "roadNumber": "N484",
+        "hectometer": 54,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.13140643988118,
+                51.9359813686678
+            ]
+        },
+        "constructionYear": 1940,
+        "comment": null
+    },
+    {
+        "objectId": "VK419-10.350",
+        "name": "Kunstwerk 4 muilprofiel duiker",
+        "roadNumber": "N419",
+        "hectometer": 103,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.94704563685561,
+                52.0903977883343
+            ]
+        },
+        "constructionYear": 2011,
+        "comment": null
+    },
+    {
+        "objectId": "VK405-01.300",
+        "name": "Kunststof voetbrug",
+        "roadNumber": "N405",
+        "hectometer": 13,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.89445915039191,
+                52.0999252565258
+            ]
+        },
+        "constructionYear": 2011,
+        "comment": null
+    },
+    {
+        "objectId": "VK421-02.900",
+        "name": "KW6 Viaduct over de parallelweg A12 Oost",
+        "roadNumber": "N421",
+        "hectometer": 29,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.19238796848754,
+                52.0618863097796
+            ]
+        },
+        "constructionYear": 2012,
+        "comment": null
+    },
+    {
+        "objectId": "VK414-01.550",
+        "name": "Brug naar Ocriet eiland",
+        "roadNumber": "N414",
+        "hectometer": 15,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.3129250391468,
+                52.2253064839379
+            ]
+        },
+        "constructionYear": 1980,
+        "comment": null
+    },
+    {
+        "objectId": "VK458-48.705",
+        "name": "Duiker in de Maaltocht",
+        "roadNumber": "N458",
+        "hectometer": 487,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.83928515664775,
+                52.0864281652322
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK484-03.130",
+        "name": "Onderdoorgang/autotunnel",
+        "roadNumber": "N484",
+        "hectometer": 31,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.1112531232858,
+                51.9204989192299
+            ]
+        },
+        "constructionYear": 1994,
+        "comment": null
+    },
+    {
+        "objectId": "VK421-02.000",
+        "name": "KW4 brug over de Rietsloot Noord",
+        "roadNumber": "N421",
+        "hectometer": 20,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.19549572265503,
+                52.05393634119
+            ]
+        },
+        "constructionYear": 2012,
+        "comment": null
+    },
+    {
+        "objectId": "VK413-03.542",
+        "name": "Tunnel (3e W.M.N_ tbv inspectie wild en leidingen",
+        "roadNumber": "N413",
+        "hectometer": 35,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.29570089387707,
+                52.142021315624
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "FP225-34.0",
+        "name": "N225 Elst Plantage Willem III",
+        "roadNumber": "N225",
+        "hectometer": 340,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.51981812,
+                51.97915829
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP199-2.9",
+        "name": "N199 Amersfoort aansluiting A1",
+        "roadNumber": "N199",
+        "hectometer": 29,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.36464657,
+                52.20904566
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP421-0.33",
+        "name": "N421-0.33",
+        "roadNumber": "N421",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.189843067147,
+                52.040171687579
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP421-0.98",
+        "name": "N421-0.98",
+        "roadNumber": "N421",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.19398445508182,
+                52.045087131485
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP234-9.9",
+        "name": "N234 Koningsweg Soest",
+        "roadNumber": "N234",
+        "hectometer": 99,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.26382341,
+                52.18479712
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP225-40.9",
+        "name": "N225 Grebbeberg",
+        "roadNumber": "N225",
+        "hectometer": 409,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.60467796,
+                51.95573443
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP210-44.7",
+        "name": "N210 Hooge Grienden SBB",
+        "roadNumber": "N210",
+        "hectometer": 447,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01985293,
+                52.00137343
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP228-95.0",
+        "name": "N228 Hollandse IJssel",
+        "roadNumber": "N228",
+        "hectometer": 950,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.98807557,
+                52.05393188
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP226-50.1",
+        "name": "N226 Verlegde Maanweg",
+        "roadNumber": "N226",
+        "hectometer": 501,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.399063640098,
+                52.125531529732
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP237-86.6",
+        "name": "N237 ecoduct Boele Staal",
+        "roadNumber": "N237",
+        "hectometer": 866,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.32764611,
+                52.13262666
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP237-81.83",
+        "name": "N237 ecoduct Beukbergen",
+        "roadNumber": "N237",
+        "hectometer": 818,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.26477345,
+                52.11560892
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP409-10",
+        "name": "N409 Houtenseweg weg. Inundatiekanaal NHW",
+        "roadNumber": "N409",
+        "hectometer": 100,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.11992943718587,
+                52.0465917315705
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP201-59.8",
+        "name": "N201 Vinkeveense Plassen",
+        "roadNumber": "N201",
+        "hectometer": 598,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.96473554528006,
+                52.2204763853936
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP421-0.75",
+        "name": "N421-0.75",
+        "roadNumber": "N421",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.193451171542,
+                52.04313387083
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP234-1.7",
+        "name": "N234 De Leyen de Eyckelkamp",
+        "roadNumber": "N234",
+        "hectometer": 17,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.18614903,
+                52.1394991
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP229-17.3",
+        "name": "N229 Kromme Rijn",
+        "roadNumber": "N229",
+        "hectometer": 173,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.3250495,
+                51.99353504
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP237-78.1",
+        "name": "N237 Den Eik",
+        "roadNumber": "N237",
+        "hectometer": 781,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.21454759,
+                52.10504813
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP419-2.2",
+        "name": "N419 - N198 Bijleveld Veldhuizerweg",
+        "roadNumber": "N419",
+        "hectometer": 22,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.00189085,
+                52.08007045
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP237-77.90",
+        "name": "N237 Den Eik Panbos",
+        "roadNumber": "N237",
+        "hectometer": 779,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.21357052,
+                52.104822
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK228-25.135",
+        "name": "Veetunnel onder de N228",
+        "roadNumber": "N228",
+        "hectometer": 251,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.0241024366792,
+                52.0668186001091
+            ]
+        },
+        "constructionYear": 1992,
+        "comment": null
+    },
+    {
+        "objectId": "VK229-07.878",
+        "name": "Duiker",
+        "roadNumber": "N229",
+        "hectometer": 78,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.22891783283087,
+                52.0474738926728
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK229-10.049",
+        "name": "Fietstunnel onder de N229",
+        "roadNumber": "N229",
+        "hectometer": 100,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.24220122987687,
+                52.0299060315781
+            ]
+        },
+        "constructionYear": 1986,
+        "comment": null
+    },
+    {
+        "objectId": "VK229-10.608",
+        "name": "Voetgangerstunnel als oversteek bij bushalte",
+        "roadNumber": "N229",
+        "hectometer": 106,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.24967346796514,
+                52.0268359012144
+            ]
+        },
+        "constructionYear": 1994,
+        "comment": null
+    },
+    {
+        "objectId": "VK229-11.462",
+        "name": "Duiker in het Katteveldse meer",
+        "roadNumber": "N229",
+        "hectometer": 114,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.24967346796514,
+                52.0268359012144
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK229-12.723",
+        "name": "Brug over de Kromme Rijn",
+        "roadNumber": "N229",
+        "hectometer": 127,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.26899258051872,
+                52.0125851080336
+            ]
+        },
+        "constructionYear": 1965,
+        "comment": null
+    },
+    {
+        "objectId": "VK229-16.200",
+        "name": "Fietstunnel Cothen",
+        "roadNumber": "N229",
+        "hectometer": 162,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.31423088905857,
+                52.000083740325
+            ]
+        },
+        "constructionYear": 2009,
+        "comment": null
+    },
+    {
+        "objectId": "GS238-1.80",
+        "name": "Scherm N238 Rechts HM 1.80",
+        "roadNumber": "N238",
+        "hectometer": 180,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.24009832824289,
+                52.1432825885945
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-8.85",
+        "name": "Waterkering N402 Links HM 8.85",
+        "roadNumber": "N402",
+        "hectometer": 88,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01486685,
+                52.2119926
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC212 4.10",
+        "name": "Waterkering N212 HM 4.10",
+        "roadNumber": "N212",
+        "hectometer": 41,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90776029,
+                52.17915553
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC212 4.05",
+        "name": "Waterkering N212 HM 4.05",
+        "roadNumber": "N212",
+        "hectometer": 40,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90646018,
+                52.17612637
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC210-39.21-1",
+        "name": "Grondkering N210 Rechts HM 39.21",
+        "roadNumber": "N210",
+        "hectometer": 392,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97787418,
+                51.97944653
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-13.017",
+        "name": "Duikerbrug in de Benschopse middelwetering",
+        "roadNumber": "N204",
+        "hectometer": 130,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.95924407753179,
+                52.0111332333701
+            ]
+        },
+        "constructionYear": 1954,
+        "comment": null
+    },
+    {
+        "objectId": "FP225-30.7-02",
+        "name": "N225 Amerongen Elst",
+        "roadNumber": "N225",
+        "hectometer": 307,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.49235688,
+                51.9934593
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP225-30.7-01",
+        "name": "N225 Amerongen Elst",
+        "roadNumber": "N225",
+        "hectometer": 307,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.47779704,
+                51.99347143
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK225-42.026",
+        "name": "Duiker",
+        "roadNumber": "N225",
+        "hectometer": 420,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.61715991063387,
+                51.956021515977
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK227-03200",
+        "name": "Ecoduct Treeker Wissel",
+        "roadNumber": "N227",
+        "hectometer": 32,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.36147924694351,
+                52.106733914589
+            ]
+        },
+        "constructionYear": 2009,
+        "comment": null
+    },
+    {
+        "objectId": "VK234-07.920",
+        "name": "Duiker",
+        "roadNumber": "N234",
+        "hectometer": 79,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.24512081266824,
+                52.171584379531
+            ]
+        },
+        "constructionYear": 1970,
+        "comment": null
+    },
+    {
+        "objectId": "VK229-17.323",
+        "name": "Brug over de Kromme Rijn",
+        "roadNumber": "N229",
+        "hectometer": 173,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.32506227576472,
+                51.9934219547369
+            ]
+        },
+        "constructionYear": 1965,
+        "comment": null
+    },
+    {
+        "objectId": "VK224-22.206",
+        "name": "Brug in fietspad (L) over de Luntersebeek",
+        "roadNumber": "N224",
+        "hectometer": 222,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.52691082778277,
+                52.0760695909723
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-02.400",
+        "name": "Fietstunnel",
+        "roadNumber": "N233",
+        "hectometer": 24,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.57993843169146,
+                52.0267937549057
+            ]
+        },
+        "constructionYear": 2008,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-47.600",
+        "name": "Tunnel kunstwerk 4",
+        "roadNumber": "N210",
+        "hectometer": 476,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.06098302720359,
+                52.0089919266045
+            ]
+        },
+        "constructionYear": 2002,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.890",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 518,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40578216445197,
+                52.1123633246447
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK224-22.204",
+        "name": "Vaste brug over de Luntersebeek (Alle verkeer)",
+        "roadNumber": "N224",
+        "hectometer": 222,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.52691082778277,
+                52.0760695909723
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK227-00.100",
+        "name": "Tunnel",
+        "roadNumber": "N227",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 2009,
+        "comment": null
+    },
+    {
+        "objectId": "VK234-00.565",
+        "name": "Nieuwe weteringse tunnel",
+        "roadNumber": "N234",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 1978,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-05.220",
+        "name": "Fietstunnel",
+        "roadNumber": "N233",
+        "hectometer": 52,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.55947862491042,
+                52.0053531568344
+            ]
+        },
+        "constructionYear": 2001,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.820",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 518,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40578216445197,
+                52.1123633246447
+            ]
+        },
+        "constructionYear": 1955,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-35.906",
+        "name": "Letscherttunnel",
+        "roadNumber": "N210",
+        "hectometer": 359,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.93657940883927,
+                51.968597847015
+            ]
+        },
+        "constructionYear": 1977,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-03.350",
+        "name": "Waterdoorgang",
+        "roadNumber": "N233",
+        "hectometer": 33,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.57429275641017,
+                52.019656327305
+            ]
+        },
+        "constructionYear": 2008,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-50.569",
+        "name": "Bakvoortsebrug",
+        "roadNumber": "N226",
+        "hectometer": 505,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40057477451727,
+                52.1231147912876
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-57.300",
+        "name": "Brug over de grift",
+        "roadNumber": "N226",
+        "hectometer": 573,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.4096938894132,
+                52.0683547117191
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK228-18.650-1",
+        "name": "Houten brug over de scheisloot",
+        "roadNumber": "N228",
+        "hectometer": 186,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.94882007971685,
+                52.0433754214962
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "VK225-41.747",
+        "name": "Duiker",
+        "roadNumber": "N225",
+        "hectometer": 417,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.61260937128876,
+                51.95532064898
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK237-77.350",
+        "name": "Tunnel Vollenhove",
+        "roadNumber": "N237",
+        "hectometer": 773,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.20463319940363,
+                52.1015603833702
+            ]
+        },
+        "constructionYear": 2016,
+        "comment": null
+    },
+    {
+        "objectId": "VK225-40.900",
+        "name": "Ecobrug N225",
+        "roadNumber": "N225",
+        "hectometer": 409,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.60300712574141,
+                51.9555094935308
+            ]
+        },
+        "constructionYear": 2014,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-53.311",
+        "name": "Mofferbrug",
+        "roadNumber": "N226",
+        "hectometer": 533,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.24477,
+                52.6381
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-58.184",
+        "name": "Duiker in heigraaf",
+        "roadNumber": "N226",
+        "hectometer": 581,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40556157001178,
+                52.061859848976
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-49.497",
+        "name": "onderdoorgang tram",
+        "roadNumber": "N210",
+        "hectometer": 494,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.06143005540616,
+                52.0227540792271
+            ]
+        },
+        "constructionYear": 1983,
+        "comment": null
+    },
+    {
+        "objectId": "VK221-34.711",
+        "name": "Koningin Emma brug",
+        "roadNumber": "N221",
+        "hectometer": 347,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.270102,
+                52.209363
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-49.930",
+        "name": "Fietsbrug over de toerit rijksweg 2",
+        "roadNumber": "N210",
+        "hectometer": 499,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 2002,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.360",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 513,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40174255590628,
+                52.1162193419504
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK224-24.710",
+        "name": "Duiker",
+        "roadNumber": "N224",
+        "hectometer": 247,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.55333569472685,
+                52.063830759864
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-19.461",
+        "name": "Vinkenbrug",
+        "roadNumber": "N204",
+        "hectometer": 194,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.91567843354539,
+                52.0588898094121
+            ]
+        },
+        "constructionYear": 1961,
+        "comment": null
+    },
+    {
+        "objectId": "VK228-21.942",
+        "name": "Hoogenboomsbrug (autoverkeer)",
+        "roadNumber": "N228",
+        "hectometer": 219,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.98778083959105,
+                52.0537490509465
+            ]
+        },
+        "constructionYear": 2002,
+        "comment": null
+    },
+    {
+        "objectId": "VK230-02.025",
+        "name": "De Trap",
+        "roadNumber": "N230",
+        "hectometer": 20,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.04992015773282,
+                52.131343821451
+            ]
+        },
+        "constructionYear": 1977,
+        "comment": null
+    },
+    {
+        "objectId": "VK212-02.087",
+        "name": "Tunnel in fietspad Ringdijk",
+        "roadNumber": "N212",
+        "hectometer": 20,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90512590661687,
+                52.1980198749795
+            ]
+        },
+        "constructionYear": 1956,
+        "comment": null
+    },
+    {
+        "objectId": "VK212-04.103",
+        "name": "Duikerbrug in de tocht en fietspad",
+        "roadNumber": "N212",
+        "hectometer": 41,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90759277839065,
+                52.1793552217419
+            ]
+        },
+        "constructionYear": 1958,
+        "comment": null
+    },
+    {
+        "objectId": "VK230-03-340",
+        "name": "Onderdoorgang + duiker",
+        "roadNumber": "N230",
+        "hectometer": 33,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.06673908018916,
+                52.1364047517001
+            ]
+        },
+        "constructionYear": 1978,
+        "comment": null
+    },
+    {
+        "objectId": "VK212-05.005",
+        "name": "Ecopassage in de veldwetering",
+        "roadNumber": "N212",
+        "hectometer": 50,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90443582613405,
+                52.1714826398683
+            ]
+        },
+        "constructionYear": 2014,
+        "comment": null
+    },
+    {
+        "objectId": "VK228-12.465",
+        "name": "Dichte duiker",
+        "roadNumber": "N228",
+        "hectometer": 124,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.87690129888585,
+                52.0168941279833
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK225-39.100",
+        "name": "T Viaduct",
+        "roadNumber": "N225",
+        "hectometer": 391,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.57745442172115,
+                51.9573831427671
+            ]
+        },
+        "constructionYear": 1930,
+        "comment": null
+    },
+    {
+        "objectId": "VK212-01.534",
+        "name": "Duikerbrug in de Driehuizer Dwarstocht",
+        "roadNumber": "N212",
+        "hectometer": 15,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90452954542011,
+                52.2025712697224
+            ]
+        },
+        "constructionYear": 1954,
+        "comment": null
+    },
+    {
+        "objectId": "VK237-81.900",
+        "name": "Ecoduct Beukbergen",
+        "roadNumber": "N237",
+        "hectometer": 819,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.26583727735365,
+                52.1158486999794
+            ]
+        },
+        "constructionYear": 2009,
+        "comment": null
+    },
+    {
+        "objectId": "VK224-16.617",
+        "name": "Duiker",
+        "roadNumber": "N224",
+        "hectometer": 166,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.45579779014072,
+                52.08140569775
+            ]
+        },
+        "constructionYear": 1980,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-19.900",
+        "name": "Houten voetbrug parkeerplaats Linschoten",
+        "roadNumber": "N204",
+        "hectometer": 199,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90915076491212,
+                52.0605331350511
+            ]
+        },
+        "constructionYear": 1980,
+        "comment": "Vervangen in 2015"
+    },
+    {
+        "objectId": "VK234-00.092",
+        "name": "Gelderpolder",
+        "roadNumber": "N234",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 1967,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-05.020",
+        "name": "Fietstunnel Kw 7",
+        "roadNumber": "N233",
+        "hectometer": 50,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.5610599699271,
+                52.0068647225954
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-04.100",
+        "name": "Fietstunnel kw 5",
+        "roadNumber": "N233",
+        "hectometer": 41,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.5679770767936,
+                52.0136395836637
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "VK237-72.975",
+        "name": "Duikerbrug  (derden) gemeente Utrecht",
+        "roadNumber": "N237",
+        "hectometer": 729,
+        "direction": null,
+        "geometry": null,
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-57.336",
+        "name": "Brug over de grift naar Landgoed Anderstein",
+        "roadNumber": "N226",
+        "hectometer": 573,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.4096938894132,
+                52.0683547117191
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "GS224-11.62",
+        "name": "Scherm N224 Links HM 11.62",
+        "roadNumber": "N224",
+        "hectometer": 116,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.39126054546921,
+                52.0837910123198
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK212-02.137",
+        "name": "Duikerbrug in de ringvaart van Gr. Mijdrecht",
+        "roadNumber": "N212",
+        "hectometer": 21,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90541449718783,
+                52.1971546636157
+            ]
+        },
+        "constructionYear": 1956,
+        "comment": null
+    },
+    {
+        "objectId": "VK228-12.516",
+        "name": "Dichte duiker",
+        "roadNumber": "N228",
+        "hectometer": 125,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.87834281481797,
+                52.0172934583408
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK212-00.509",
+        "name": "Duikerbrug in de Mijdrechtse Dwarstocht",
+        "roadNumber": "N212",
+        "hectometer": 5,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.9043230492574,
+                52.2115776629173
+            ]
+        },
+        "constructionYear": 1954,
+        "comment": null
+    },
+    {
+        "objectId": "GC414-3.76-1",
+        "name": "Grondkering N414 Rechts HM 3.76",
+        "roadNumber": "N414",
+        "hectometer": 37,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.34245074,
+                52.22649857
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK212-01.564",
+        "name": "Fietsbrug in de Weteringtocht",
+        "roadNumber": "N212",
+        "hectometer": 15,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90452954542011,
+                52.2025712697224
+            ]
+        },
+        "constructionYear": 1976,
+        "comment": null
+    },
+    {
+        "objectId": "FP417-4.1",
+        "name": "N417 N234 Loopplank over sloot",
+        "roadNumber": "N417",
+        "hectometer": 41,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.15533829,
+                52.14299284
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP234-0.15",
+        "name": "N234 Ovonde",
+        "roadNumber": "N234",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.15858161,
+                52.14295423
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-51.877-1",
+        "name": "Brug in de busbaan langs N201",
+        "roadNumber": "N201",
+        "hectometer": 518,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.85551811174264,
+                52.2248246080053
+            ]
+        },
+        "constructionYear": 2000,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-57.934",
+        "name": "Plassenbrug",
+        "roadNumber": "N201",
+        "hectometer": 579,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.93581976229256,
+                52.2181731452556
+            ]
+        },
+        "constructionYear": 1955,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-56.720",
+        "name": "Duikerbrug in de Demmerikse zijtocht",
+        "roadNumber": "N201",
+        "hectometer": 567,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.91912375346577,
+                52.2161658411735
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-62.287",
+        "name": "Donkervlietsebrug",
+        "roadNumber": "N201",
+        "hectometer": 622,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.99683288048504,
+                52.2261069742643
+            ]
+        },
+        "constructionYear": 1942,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-11.130",
+        "name": "Duikerbrug in de Achterwetering",
+        "roadNumber": "N204",
+        "hectometer": 111,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.96800593071814,
+                51.9950160454947
+            ]
+        },
+        "constructionYear": 1983,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-50.310",
+        "name": "brug in de par.weg Ringdijk",
+        "roadNumber": "N201",
+        "hectometer": 503,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.8479096287008,
+                52.2329035882239
+            ]
+        },
+        "constructionYear": 1976,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-49.250",
+        "name": "Faunapassage",
+        "roadNumber": "N201",
+        "hectometer": 492,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.85392584060677,
+                52.2403935901555
+            ]
+        },
+        "constructionYear": 2013,
+        "comment": null
+    },
+    {
+        "objectId": "FP210-41.1",
+        "name": "N210 natuurstrook SBB",
+        "roadNumber": "N210",
+        "hectometer": 411,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.96962886,
+                51.99487826
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP227-3.0",
+        "name": "N227 ecoduct Treeker Wissel",
+        "roadNumber": "N227",
+        "hectometer": 30,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.36093085,
+                52.10852398
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP204-11.15",
+        "name": "N204 Zuidzijdse kade",
+        "roadNumber": "N204",
+        "hectometer": 111,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.96777453,
+                51.99542894
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-63.810",
+        "name": "Overkluizing",
+        "roadNumber": "N201",
+        "hectometer": 638,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.01968320341998,
+                52.2260765377145
+            ]
+        },
+        "constructionYear": 1980,
+        "comment": null
+    },
+    {
+        "objectId": "VK233-01.800",
+        "name": "Fietstunnel",
+        "roadNumber": "N233",
+        "hectometer": 18,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.58029430569088,
+                52.0321735745247
+            ]
+        },
+        "constructionYear": 2008,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-50.357",
+        "name": "Brug in de Ringvaart 2e bedijking",
+        "roadNumber": "N201",
+        "hectometer": 503,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.8479096287008,
+                52.2329035882239
+            ]
+        },
+        "constructionYear": 1940,
+        "comment": null
+    },
+    {
+        "objectId": "GC204-20.95",
+        "name": "Waterkering sloot N204 Links HM 20.95",
+        "roadNumber": "N204",
+        "hectometer": 209,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90378208,
+                52.06866998
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK237-74.447",
+        "name": "Duikerbrug (derden) Waterschap. met gemaal",
+        "roadNumber": "N237",
+        "hectometer": 744,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.16452756465486,
+                52.1002991445328
+            ]
+        },
+        "constructionYear": 1950,
+        "comment": null
+    },
+    {
+        "objectId": "GS199-4.50",
+        "name": "Schermwalcombinatie N199 Links HM 4.50",
+        "roadNumber": "N199",
+        "hectometer": 45,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.368118,
+                52.193736
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS210-47.50",
+        "name": "Scherm N210 Rechts HM 47.50",
+        "roadNumber": "N210",
+        "hectometer": 475,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.05959450608006,
+                52.0087538614703
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC806-1.05",
+        "name": "Waterkering N806 Links HM 1.05",
+        "roadNumber": "N806",
+        "hectometer": 10,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.38269427,
+                52.23210614
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK238-02.200",
+        "name": "Spoortunnel N238 (onderdoorgang PU. dek Prorail)",
+        "roadNumber": "N238",
+        "hectometer": 22,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.24493267304963,
+                52.1406293798957
+            ]
+        },
+        "constructionYear": 1963,
+        "comment": null
+    },
+    {
+        "objectId": "GS233-2.30",
+        "name": "Schermwalcombinatie N233 Rechts HM 2.30",
+        "roadNumber": "N233",
+        "hectometer": 23,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.58001534748241,
+                52.0276961184274
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK408-02.368",
+        "name": "Noorderveldbrug. viaduct over Structuurweg",
+        "roadNumber": "N408",
+        "hectometer": 23,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.10482723590663,
+                52.0407691195944
+            ]
+        },
+        "constructionYear": 1982,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-18.40",
+        "name": "Waterkering N228 Rechts HM 18.40",
+        "roadNumber": "N228",
+        "hectometer": 184,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.94652417,
+                52.04242888
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-61.55",
+        "name": "Waterkering N201 Links HM 61.55",
+        "roadNumber": "N201",
+        "hectometer": 615,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.98705398,
+                52.22407056
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS238-2.82",
+        "name": "Scherm N238 Rechts HM 2.82",
+        "roadNumber": "N238",
+        "hectometer": 28,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.24982245,
+                52.1368128
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-14.80",
+        "name": "Grondkering N228 Links HM 14.80",
+        "roadNumber": "N228",
+        "hectometer": 148,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90829498,
+                52.02388098
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-62.52",
+        "name": "Waterkering N201 Rechts HM 62.52",
+        "roadNumber": "N201",
+        "hectometer": 625,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.00113201,
+                52.22617774
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC212-5.18-1",
+        "name": "Waterkering N212 Rechts HM 5.18",
+        "roadNumber": "N212",
+        "hectometer": 51,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90471414,
+                52.16966398
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC212-2.60",
+        "name": "Waterkering N212 Rechts HM 2.60",
+        "roadNumber": "N212",
+        "hectometer": 26,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90675539,
+                52.19287061
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-18.48",
+        "name": "Grondkering N402 Rechts HM 18.48",
+        "roadNumber": "N402",
+        "hectometer": 184,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.03158238,
+                52.14297116
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP421-275",
+        "name": "N421 -2.75",
+        "roadNumber": "N421",
+        "hectometer": 27,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.194025847674,
+                52.060606504695
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP421-2.73",
+        "name": "N421-2.73",
+        "roadNumber": "N421",
+        "hectometer": 27,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.193822034563,
+                52.060546555612
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP225-37.2",
+        "name": "N225 Remmerden Elst",
+        "roadNumber": "N225",
+        "hectometer": 372,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.55364295,
+                51.9630713
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-57.758",
+        "name": "Viaduct Vinkeveen",
+        "roadNumber": "N201",
+        "hectometer": 577,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.93322616970715,
+                52.2173286372113
+            ]
+        },
+        "constructionYear": 1957,
+        "comment": null
+    },
+    {
+        "objectId": "FP212-5.0",
+        "name": "N212 Veldwetering Groot Wilnis Vinkeveen",
+        "roadNumber": "N212",
+        "hectometer": 50,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90443248,
+                52.17146218
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP237-77.2",
+        "name": "N237 Vollenhove Beerschoten",
+        "roadNumber": "N237",
+        "hectometer": 772,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.20356855,
+                52.1021464
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-11.876",
+        "name": "Duikerbrug in de Achterwetering (zuidzijde)",
+        "roadNumber": "N204",
+        "hectometer": 118,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.96514404174705,
+                52.0009939120913
+            ]
+        },
+        "constructionYear": 1955,
+        "comment": null
+    },
+    {
+        "objectId": "FP415-2.0",
+        "name": "N415",
+        "roadNumber": "N415",
+        "hectometer": 20,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.22328877,
+                52.20514135
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP412-0.5",
+        "name": "N412 Universiteitsweg nabij A28",
+        "roadNumber": "N412",
+        "hectometer": 0,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.18048121,
+                52.09531324
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP199-7.0",
+        "name": "N199 Eem",
+        "roadNumber": "N199",
+        "hectometer": 70,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.362092429904,
+                52.171934220198
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-57.14",
+        "name": "Waterkering N201 Rechts HM 57.14",
+        "roadNumber": "N201",
+        "hectometer": 571,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.9251949,
+                52.216102
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC806-0.55",
+        "name": "Waterkering N806 Links HM 0.55",
+        "roadNumber": "N806",
+        "hectometer": 0,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.37677094,
+                52.23246515
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP226-53.3",
+        "name": "N226 Mofferbrug Heiligenbergerbeek",
+        "roadNumber": "N226",
+        "hectometer": 533,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.41318494,
+                52.10111786
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP212-6.1",
+        "name": "N212 Geer",
+        "roadNumber": "N212",
+        "hectometer": 61,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90438931,
+                52.17139909
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP421-1.95",
+        "name": "N421-1.95",
+        "roadNumber": "N421",
+        "hectometer": 19,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.19548611175,
+                52.053957850458
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP224-25.4",
+        "name": "N224 Grens Gelderland Utrecht",
+        "roadNumber": "N224",
+        "hectometer": 254,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.55943777,
+                52.05875081
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP225-18.1",
+        "name": "N225 Doorn Vosheuvel bedrijventerrein - Gimborn",
+        "roadNumber": "N225",
+        "hectometer": 181,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.31554419,
+                52.03775125
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP806-1.0",
+        "name": "N806 Rengers Wetering",
+        "roadNumber": "N806",
+        "hectometer": 10,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.3839569,
+                52.23209253
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP237-75.0",
+        "name": "N237 Biltse Grift",
+        "roadNumber": "N237",
+        "hectometer": 750,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.17729299,
+                52.10301036
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC402-12.00",
+        "name": "Grondkering N402 Links HM 12.00",
+        "roadNumber": "N402",
+        "hectometer": 12,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.00298835,
+                52.19105372
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-14.24",
+        "name": "Grondkering N228 Links HM 14.24",
+        "roadNumber": "N228",
+        "hectometer": 142,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.89932165,
+                52.02362012
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-15.23",
+        "name": "Grondkering N228 Rechts HM 15.23",
+        "roadNumber": "N228",
+        "hectometer": 152,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.91177095,
+                52.02410898
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC806-1.15",
+        "name": "Waterkering N806 Links HM 1.15",
+        "roadNumber": "N806",
+        "hectometer": 11,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.38549613,
+                52.23182202
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC210-39.21",
+        "name": "Grondkering N210 Links HM 39.21",
+        "roadNumber": "N210",
+        "hectometer": 392,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97841061,
+                51.97896396
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK199-07.189",
+        "name": "De Drie Sluizen brug",
+        "roadNumber": "N199",
+        "hectometer": 71,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.361794,
+                52.171595
+            ]
+        },
+        "constructionYear": 1987,
+        "comment": null
+    },
+    {
+        "objectId": "GC417-4.83",
+        "name": "Waterkering N417 Links HM 4.83",
+        "roadNumber": "N417",
+        "hectometer": 48,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.16003622,
+                52.14945901
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC458-48.71",
+        "name": "Waterkering N458 Links HM 48.71",
+        "roadNumber": "N458",
+        "hectometer": 487,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.83943714,
+                52.08636653
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC411-3.12",
+        "name": "Waterkering N411 Links HM 3.12",
+        "roadNumber": "N411",
+        "hectometer": 31,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.17731951,
+                52.0640179
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-12.27",
+        "name": "Grondkering N228 Rechts HM 12.27",
+        "roadNumber": "N228",
+        "hectometer": 122,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.87384863,
+                52.01726386
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC417-4.70",
+        "name": "Waterkering N417 Links HM 4.70",
+        "roadNumber": "N417",
+        "hectometer": 47,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.1585913,
+                52.14823995
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-60.39-1",
+        "name": "Waterkering N201 Rechts HM 60.39",
+        "roadNumber": "N201",
+        "hectometer": 603,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97189895,
+                52.22077755
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-61.10",
+        "name": "Grondkering N201 Links HM 61.10",
+        "roadNumber": "N201",
+        "hectometer": 611,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.98243517,
+                52.22303985
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201 56.7",
+        "name": "Waterkering N201 HM 56.7",
+        "roadNumber": "N201",
+        "hectometer": 567,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.9192865,
+                52.2161106
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP238-3.4",
+        "name": "N238 oprit A28 Huis ter Heide",
+        "roadNumber": "N238",
+        "hectometer": 34,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.2602547,
+                52.10794637
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-57.40",
+        "name": "Waterkering N201 Links HM 57.40",
+        "roadNumber": "N201",
+        "hectometer": 574,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.9290006,
+                52.21638918
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC201-60.39",
+        "name": "Waterkering N201 Links HM 60.39",
+        "roadNumber": "N201",
+        "hectometer": 603,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.971850329188,
+                52.220905120631
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP227-14.94",
+        "name": "N227 Langbroek Cothen",
+        "roadNumber": "N227",
+        "hectometer": 149,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.32175301,
+                52.00762668
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP234-2.7",
+        "name": "N234 De Leyen Eijkensteinsche Bossen",
+        "roadNumber": "N234",
+        "hectometer": 27,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.18834085,
+                52.13934103
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "FP421-2.53",
+        "name": "N421-2.53",
+        "roadNumber": "N421",
+        "hectometer": 25,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.194496470519,
+                52.058846294869
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VKKromme Rijn 400",
+        "name": "Rustbrug (stenenbrug)",
+        "roadNumber": null,
+        "hectometer": null,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.247488998175,
+                52.02153300014
+            ]
+        },
+        "constructionYear": 2010,
+        "comment": null
+    },
+    {
+        "objectId": "VKKromme Rijn 500",
+        "name": "Brug Molenspoor",
+        "roadNumber": null,
+        "hectometer": null,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.272008999902,
+                51.998352999332
+            ]
+        },
+        "constructionYear": 1965,
+        "comment": null
+    },
+    {
+        "objectId": "VKKromme Rijn-1",
+        "name": "Kikkerbrug",
+        "roadNumber": null,
+        "hectometer": null,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.255833002367,
+                52.026386996698
+            ]
+        },
+        "constructionYear": 1980,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-16.536",
+        "name": "Waardsebrug",
+        "roadNumber": "N204",
+        "hectometer": 165,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.9350849210905,
+                52.0385852948494
+            ]
+        },
+        "constructionYear": 1955,
+        "comment": null
+    },
+    {
+        "objectId": "GC411-3.12-1",
+        "name": "Waterkering N411 Rechts HM 3.12",
+        "roadNumber": "N411",
+        "hectometer": 31,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.17782463,
+                52.06379443
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK419-13.950",
+        "name": "Kunstwerk1 Duiker Bijleveldsche vliet",
+        "roadNumber": "N419",
+        "hectometer": 139,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.97829081839357,
+                52.0800962859588
+            ]
+        },
+        "constructionYear": 2011,
+        "comment": null
+    },
+    {
+        "objectId": "FP421-1.20",
+        "name": "N421-1.20",
+        "roadNumber": "N421",
+        "hectometer": 12,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.194520058508,
+                52.047303628998
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-50.200",
+        "name": "Veetunnel",
+        "roadNumber": "N201",
+        "hectometer": 502,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.84910568872331,
+                52.2334194782489
+            ]
+        },
+        "constructionYear": 2013,
+        "comment": null
+    },
+    {
+        "objectId": "FP201-58.8",
+        "name": "N201 Vinkeveense plassen",
+        "roadNumber": "N201",
+        "hectometer": 588,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.94871854782104,
+                52.2196236685708
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC228-14.24 -1",
+        "name": "Grondkering N228 Rechts HM 14.24",
+        "roadNumber": "N228",
+        "hectometer": 142,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.89951544,
+                52.02349629
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GS484-03.100R",
+        "name": "Geluidsscherm",
+        "roadNumber": "N484",
+        "hectometer": 31,
+        "direction": "Re",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.1112531232858,
+                51.9204989192299
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "VK201-55.707",
+        "name": "Brug in de Hoofdtocht",
+        "roadNumber": "N201",
+        "hectometer": 557,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90439164428545,
+                52.2159842888063
+            ]
+        },
+        "constructionYear": 1965,
+        "comment": null
+    },
+    {
+        "objectId": "VK204-14.693",
+        "name": "Duikerbrug in de Willekopse middelwetering",
+        "roadNumber": "N204",
+        "hectometer": 146,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.94811459290189,
+                52.0235713631872
+            ]
+        },
+        "constructionYear": 1955,
+        "comment": null
+    },
+    {
+        "objectId": "VK210-48.930",
+        "name": "Viaduct De hogewaard Oost",
+        "roadNumber": "N210",
+        "hectometer": 489,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.06362701715272,
+                52.0184811313833
+            ]
+        },
+        "constructionYear": 1983,
+        "comment": null
+    },
+    {
+        "objectId": "VK199-04.655",
+        "name": "Dukkerbrug over de Malewetering",
+        "roadNumber": "N199",
+        "hectometer": 46,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.3679877375285,
+                52.1928394428657
+            ]
+        },
+        "constructionYear": 1960,
+        "comment": null
+    },
+    {
+        "objectId": "VK226-51.670",
+        "name": "Duikerbrug",
+        "roadNumber": "N226",
+        "hectometer": 516,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40403982804014,
+                52.113748277344
+            ]
+        },
+        "constructionYear": 1940,
+        "comment": null
+    },
+    {
+        "objectId": "FP226-50.5",
+        "name": "N226 Gasstation Leusden",
+        "roadNumber": "N226",
+        "hectometer": 505,
+        "direction": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.40058161,
+                52.1231136
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC458-49.20",
+        "name": "Waterkering N458 Links HM 49.20",
+        "roadNumber": "N458",
+        "hectometer": 492,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.84847162,
+                52.08664228
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC458-48.74",
+        "name": "Waterkering N458 Links HM 48.74",
+        "roadNumber": "N458",
+        "hectometer": 487,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.83896918,
+                52.08651301
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    },
+    {
+        "objectId": "GC212-5.0",
+        "name": "Waterkering N212 Links HM 5.0",
+        "roadNumber": "N212",
+        "hectometer": 50,
+        "direction": "Li",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4.90417904,
+                52.17141677
+            ]
+        },
+        "constructionYear": null,
+        "comment": null
+    }
+]

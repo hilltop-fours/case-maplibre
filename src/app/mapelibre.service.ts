@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { Observable, forkJoin } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
@@ -15,6 +15,13 @@ export class MapelibreService {
 
   getRoadObjectMaintenanceCondition(): Observable<roadobjectmaintenancecondition[]> {
     return this.http.get<roadobjectmaintenancecondition[]>('api/backend/data/road-object-maintenance-condition');
+  }
+
+  getRoadObjectForkJoin(): Observable<[roadobject[], roadobjectmaintenancecondition[]]> {
+    return forkJoin([
+      this.http.get<roadobject[]>('api/backend/data/road-object'),
+      this.http.get<roadobjectmaintenancecondition[]>('api/backend/data/road-object-maintenance-condition')
+    ])
   }
 }
 

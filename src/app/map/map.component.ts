@@ -31,21 +31,32 @@ export class MapComponent implements AfterViewInit, OnInit, OnDestroy {
   }
 
   ngOnInit(): void {
-    console.log('ngOnInit()')
 
-    this.maplibreservice.getRoadObject().subscribe({
-      next: (data) => { console.log('get data', this.roadobject = data) },
+    // no longer need to use the single rxjs calls because we can call with forkjoin now.
+
+    // this.maplibreservice.getRoadObject().subscribe({
+    //   next: (data) => { console.log('get data', this.roadobject = data) },
+    //   error: (err: Error) => console.error(`Observer got an error: ${err}`),
+    //   complete: () => {
+    //     console.log('getRoadObject', this.roadobject)
+    //     this.roadobjectasgeojson = GeoParser.parse(this.roadobject, { GeoJSON: 'geometry', include: ['objectId', 'name', 'roadNumber', 'hectometer', 'direction', 'constructionYear', 'comment'] });
+    //   }
+    // });
+
+    // this.maplibreservice.getRoadObjectMaintenanceCondition().subscribe({
+    //   next: (data) => this.roadobjectmaintenancecondition = data,
+    //   error: (err: Error) => console.error(`Observer got an error: ${err}`),
+    //   complete: () => console.log('getRoadObjectMaintenanceCondition', this.roadobjectmaintenancecondition)
+    // });
+
+    this.maplibreservice.getRoadObjectForkJoin().subscribe({
+      next: (data: [roadobject[], roadobjectmaintenancecondition[]]) => {
+        this.roadobject = data[0], this.roadobjectmaintenancecondition = data[1]
+      },
       error: (err: Error) => console.error(`Observer got an error: ${err}`),
       complete: () => {
-        console.log('getRoadObject', this.roadobject)
         this.roadobjectasgeojson = GeoParser.parse(this.roadobject, { GeoJSON: 'geometry', include: ['objectId', 'name', 'roadNumber', 'hectometer', 'direction', 'constructionYear', 'comment'] });
       }
-    });
-
-    this.maplibreservice.getRoadObjectMaintenanceCondition().subscribe({
-      next: (data) => this.roadobjectmaintenancecondition = data,
-      error: (err: Error) => console.error(`Observer got an error: ${err}`),
-      complete: () => console.log('getRoadObjectMaintenanceCondition', this.roadobjectmaintenancecondition)
     });
   }
 
